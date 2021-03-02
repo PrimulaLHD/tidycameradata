@@ -1,0 +1,11 @@
+Package: tidycameradata
+Type: Package
+Title: tidycameradata: An R package for camera data manipulation
+Version: 0.1.0
+Author: Hai-Dong Li
+Maintainer: Hai-Dong Li <lihd@ioz.ac.cn>
+Description: This is an R package for camera data manipulation and basic 
+    statistics.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

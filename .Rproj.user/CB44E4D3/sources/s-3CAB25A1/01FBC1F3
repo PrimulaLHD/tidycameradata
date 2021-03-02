@@ -1,0 +1,24 @@
+{
+    "id": "01FBC1F3",
+    "path": "~/GitHub/tidycameradata/man/testdata.Rd",
+    "project_path": "man/testdata.Rd",
+    "type": "r_doc",
+    "hash": "2555130823",
+    "contents": "",
+    "dirty": false,
+    "created": 1614683329465.0,
+    "source_on_save": false,
+    "relative_order": 21,
+    "properties": {
+        "cursorPosition": "88,36",
+        "scrollLine": "74"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614683391,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614683391117,
+    "read_only": false,
+    "read_only_alternatives": []
+}

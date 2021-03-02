@@ -1,0 +1,24 @@
+{
+    "id": "DB2C3CD2",
+    "path": "~/GitHub/tidycameradata/man/frame2obs.matrix.Rd",
+    "project_path": "man/frame2obs.matrix.Rd",
+    "type": "r_doc",
+    "hash": "3069630187",
+    "contents": "",
+    "dirty": false,
+    "created": 1614678254984.0,
+    "source_on_save": false,
+    "relative_order": 18,
+    "properties": {
+        "cursorPosition": "53,0",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614678601,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614678601243,
+    "read_only": false,
+    "read_only_alternatives": []
+}
