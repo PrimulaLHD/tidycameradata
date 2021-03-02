@@ -5,7 +5,7 @@ by Hai-Dong Li
 # Instruction
 To install this package, run the following code:
 ``` r 
-devtools::install_github("PrimulaLHD/betalinkpart")
+devtools::install_github("PrimulaLHD/tidycameradata")
 
 ``` 
 
