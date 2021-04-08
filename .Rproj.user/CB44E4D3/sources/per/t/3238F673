@@ -5,7 +5,7 @@
     "type": "dcf",
     "hash": "3791674604",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1614682944655.0,
     "source_on_save": false,
     "relative_order": 20,
@@ -14,11 +14,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614683214,
+    "lastKnownWriteTime": 1614686754,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614683292421,
+    "last_content_update": 1614686754774,
     "read_only": false,
     "read_only_alternatives": []
 }
