@@ -5,6 +5,7 @@ by Hai-Dong Li
 # Instruction
 To install this package, run the following code:
 ``` r 
+install.packages("devtools")
 devtools::install_github("PrimulaLHD/tidycameradata")
 
 ``` 
