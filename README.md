@@ -6,7 +6,11 @@ by Hai-Dong Li
 To install this package, run the following code:
 ``` r 
 install.packages("devtools")
-devtools::install_github("PrimulaLHD/tidycameradata")
+devtools::install_github("PrimulaLHD/tidycameradata@main")
+
+# or you can use the remotes package like this:
+install.packages("remotes")
+remotes::install_github("PrimulaLHD/tidycameradata@main")
 
 ``` 
 
