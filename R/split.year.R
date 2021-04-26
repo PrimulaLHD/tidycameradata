@@ -10,12 +10,12 @@ split.year <- function(data){
   strart <- vector(length = n1)
   end <- vector(length = n2)
   for (i in 1:n1) {
-    if (data[i,"Year"] == year(data[i,"Start_Date"])) strart[i]=data[i,"Start_Date"]
-    if (data[i,"Year"] > year(data[i,"Start_Date"])) strart[i]= as.character(make_date(data[i,"Year"],1,1))
+    if (data[i,"year"] == year(data[i,"Start_Date"])) strart[i]=data[i,"Start_Date"]
+    if (data[i,"year"] > year(data[i,"Start_Date"])) strart[i]= as.character(make_date(data[i,"year"],1,1))
   }
   for (j in 1:n2) {
-    if (data[j,"Year"] == year(data[j,"End_Date"])) end[j]=data[j,"End_Date"]
-    if (data[j,"Year"] < year(data[j,"End_Date"])) end[j]= as.character(make_date(data[j,"Year"],12,31))
+    if (data[j,"year"] == year(data[j,"End_Date"])) end[j]=data[j,"End_Date"]
+    if (data[j,"year"] < year(data[j,"End_Date"])) end[j]= as.character(make_date(data[j,"year"],12,31))
   }
   data[,"Start_Date"] <- strart
   data[,"End_Date"] <- end
