@@ -5,7 +5,7 @@ by Hai-Dong Li
 ![flow chart](https://github.com/PrimulaLHD/BioSta_Course/blob/master/my_file/tidycameradata.png)
 
 # Instruction
-To install this package, run the following code:
+To install this package, run the following codes:
 ``` r 
 install.packages("devtools")
 devtools::install_github("PrimulaLHD/tidycameradata@main")
